@@ -26,7 +26,7 @@ const Statistics = ({ students, totalStudents, maleStudents, femaleStudents, get
       <div className="bg-gradient-to-r from-blue-50 to-indigo-50 border border-blue-200 rounded-xl p-6 mb-6">
         <div className="text-center">
           <h3 className="text-xl font-bold text-blue-900 mb-2">
-            SDN 1 PASIR POGOR
+            SD NEGERI 3 RANCAPANGGUNG
           </h3>
           <p className="text-blue-700 mb-4">
             Tahun Ajaran {getCurrentAcademicYear()}

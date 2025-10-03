@@ -17,7 +17,7 @@ export const exportAttendanceToExcel = async ({
   tahun,
   studentsData,
   attendanceRecords,
-  namaSekolah = "SD NEGERI 1 PASIRPOGOR",
+  namaSekolah = "SD NEGERI 3 RANCAPANGGUNG",
   supabase
 }) => {
   try {

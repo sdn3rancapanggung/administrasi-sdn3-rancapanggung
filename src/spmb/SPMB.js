@@ -280,7 +280,7 @@ const SPMB = ({ userData }) => {
             Sistem Penerimaan Murid Baru (SPMB)
           </h1>
           <div className="w-20 h-0.5 bg-gradient-to-r from-blue-400 to-indigo-500 mx-auto"></div>
-          <p className="text-gray-700 text-lg">SDN 1 PASIR POGOR</p>
+          <p className="text-gray-700 text-lg">SD NEGERI 3 RANCAPANGGUNG</p>
           <p className="text-blue-600 font-medium bg-white/60 px-4 py-2 rounded-full inline-block">
             Pendaftaran TA {getCurrentAcademicYear()}
           </p>

@@ -181,7 +181,7 @@ const Sidebar = ({
                 🏫
               </div>
               <h2 className="text-sm sm:text-base font-bold text-white leading-tight tracking-wide">
-                SDN 1 PASIRPOGOR
+                SDN 3 Rancapanggung
               </h2>
             </div>
           )}

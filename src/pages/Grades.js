@@ -537,7 +537,7 @@ const Nilai = ({ userData: initialUserData }) => {
         ];
 
         const headerData = [
-            ['SDN 1 PASIRPOGOR'], 
+            ['SD NEGERI 3 RANCAPANGGUNG'], 
             [`REKAPITULASI NILAI MATA PELAJARAN - ${selectedSubject.toUpperCase()}`], 
             [`KELAS ${selectedClass}`], 
             ['Tahun Ajaran: 2025/2026'], 
